@@ -32,7 +32,7 @@ Zaproponuj rozwiązanie spełniające poniższe wymagania:
  
 #### PC2:
  
- eth0: 172.22.128.3/19<br>
+ eth0: 172.22.128.2/19<br>
  
 #### usage:
  
