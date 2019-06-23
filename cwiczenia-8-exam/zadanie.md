@@ -51,8 +51,8 @@ Zaproponuj rozwiązanie spełniające poniższe wymagania:
 
 5. ``iptables -t nat -A POSTROUTING -o ``nazwa_interfejsu ``-j MASQUERADE`` - pozwoli na udostępnienie internetu PC1 i PC2
 #### network_pc1:
-![PC1](u1.PNG)<br>
+![](u1.png)<br>
  
 #### network_pc2:
 
-![PC2](u2.PNG)
+![](u2.png)
