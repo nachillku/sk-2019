@@ -36,7 +36,7 @@ Zaproponuj rozwiązanie spełniające poniższe wymagania:
  
 #### usage:
  
- 1. ``ip addr add``+ xxx.xxx.xxx.xxx/xx + ``dev`` + nazwa interfejsu - ustawiamy adresy <br> 
+ 1. ``ip addr add``+ xxx.xxx.xxx.xxx/xx + ``dev`` + nazwa interfejsu - set adresy <br> 
 >PC0 - 172.22.160.1/23 i 172.22.128.1/19 <br> 
 >PC1 - 172.22.160.2/23<br> 
 >PC2 - 172.22.128.2/19<br>
