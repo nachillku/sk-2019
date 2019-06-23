@@ -48,3 +48,5 @@ Zaproponuj rozwiązanie spełniające poniższe wymagania:
 4. ``ip route add default via`` adres_interfejsu_pc0 - set brama domyślna dla hostów
 >PC1 - 172.22.160.1/23
 >PC2 - 172.22.128.1/19
+
+5. ``iptables -t nat -A POSTROUTING -o ``nazwa_interfejsu ``-j MASQUERADE`` - pozwoli na udostępnienie internetu PC1 i PC2
