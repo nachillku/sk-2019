@@ -41,7 +41,7 @@ Zaproponuj rozwiązanie spełniające poniższe wymagania:
 >PC1 - 172.22.160.2/23<br> 
 >PC2 - 172.22.128.2/19<br>
  
-2. echo 1 > /proc/sys/net/ipv4/ip_forward - ustawiamy przekazywanie adresów ( ip forwarding )
+2. echo 1 > /proc/sys/net/ipv4/ip_forward - set przekazywanie adresów ( ip forwarding )
  
 3. ``pico /etc/resolv.conf`` - set default DNS ( 8.8.8.8 )
  
