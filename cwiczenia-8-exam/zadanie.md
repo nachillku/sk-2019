@@ -60,3 +60,4 @@ włączenie interfejsów (ip link set nazwa_interfejsu up)
 7. Dodanie adresów dns do PC1 i PC2
   /etc/resolv.conf
   nameserver 8.8.8.8
+![](s1.png)
