@@ -49,7 +49,7 @@ Zaproponuj rozwiązanie spełniające poniższe wymagania:
 >PC1 - 172.22.160.1/23
 >PC2 - 172.22.128.1/19
 
-5. ``iptables -t nat -A POSTROUTING -o ``nazwa_interfejsu ``-j MASQUERADE`` - pozwoli na udostępnienie internetu PC1 i PC2
+5. ``iptables -t nat -A POSTROUTING -o ``nazwa_interfejsu ``-j MASQUERADE`` - pozwoli na udostępnienie internetu PC1 i PC2, robimy na PC0
 #### network_pc1:
 ![](u1.png)<br>
  
